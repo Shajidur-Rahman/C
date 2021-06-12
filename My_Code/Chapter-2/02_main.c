@@ -3,8 +3,8 @@
 
 int main(){
 
-    float k = 3.0/9;
-    printf("%f\n", k);
+    int a = 2*3-3;
+    printf("%d", a);
     return 0;
 
 }
