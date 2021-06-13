@@ -4,7 +4,9 @@
 int main(){
 
     float k = 3.0/9;
-    printf("%f\n", k);
+    char my = "My name is shajidr ";
+    // printf("%f\n", k);
+    printf("%c", my);
     return 0;
 
 }
