@@ -1,6 +1,7 @@
-# include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     int shajdur;
     printf("Hello World!");
     return 0;
